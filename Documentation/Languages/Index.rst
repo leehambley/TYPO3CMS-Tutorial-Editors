@@ -32,6 +32,12 @@ the list of "Website Languages".
 .. figure:: ../Images/LanguagesListExisting.png
    :alt: List of existing web site languages
 
+If the view pictured is not visible you can still add a new language by 
+clicking "Create New Record" and add a "Website Language". Having added 
+at least one language the view should appear as pictured above:
+
+.. figure:: ../Images/LanguagesCreateNewRecordWebsiteLanguage.png
+   :alt: Adding a language the long way
 
 Click on the "New record" icon and define your new language.
 
